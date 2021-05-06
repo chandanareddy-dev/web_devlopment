@@ -1,0 +1,14 @@
+@media(min-width:583px) and (max-width:768px){
+    .wrap__container {
+        width: 80%;
+    }
+    .body__header > header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
+    
+    }
+}
+
+
