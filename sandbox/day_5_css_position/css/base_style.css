@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none; 
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ===========================
+    #base style
+==============================*/
+.body__wrap {
+    position: relative;
+}
+
+.wrap__container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 400;   
+}
+
