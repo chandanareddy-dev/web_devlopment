@@ -1,0 +1,22 @@
+h1{
+    background-color: darkgoldenrod;
+    color: darkmagenta;
+}
+
+@media(min-width:800px){
+h1{
+    color: brown;
+}
+}
+
+@media(min-width: 501px) and (max-width: 799px){
+    h1{
+        color:darkturquoise
+    }
+}
+
+@media(max-width:500px){
+    h1{
+        color:darkblue
+    }
+}
